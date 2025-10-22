@@ -18,3 +18,4 @@
 ---
 
 *Следую за планом от @Grok*
+![AI Engineer in Training](https://img.shields.io/badge/AI%20Engineer-in%20Training-blue?style=for-the-badge&logo=python)
